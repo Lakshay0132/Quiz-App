@@ -1,0 +1,5 @@
+{
+    "questions":["First world war was held in?","Second world war was held in ?","third World war was held in ?","who invented light bulb?"," who invented telephone?"],
+    "options":[["1910","1914","1918","1922"],["1935","1939","1943","1947"],["1981","1988","1985","1999"],["Einstein","Issac newton","Graham bell","Thomas edition"],["Antonio meucci","John peirce","Alexander graham bell","Amos dolbear"]],
+    "answers":["2","2","1","4","3"]
+}

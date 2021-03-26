@@ -1,0 +1,98 @@
+body{
+    background-color: rgb(198, 212, 233);
+    margin: 0%;
+    border: 0%;
+
+}
+#head{
+    background-color: aqua;
+    padding: 0.5em;
+
+}
+.levels{
+    margin-top: 5%;
+    margin-left: 5%;
+
+}
+ul{
+    list-style-type: none;
+}
+li a{
+    text-decoration: none;
+    float: left;
+    margin: 10%;
+    background-color: rgb(172, 53, 132);
+    font-weight: bold;
+    font-size: large;
+    color: black;
+    padding: 1em 2em;
+    border-radius: 5%;
+    letter-spacing: 0.2em;
+
+}
+li a:hover{
+    background-color: black;
+    color: white;
+    transition-duration: 0.5s;
+}
+#select{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-right: 18%;
+    letter-spacing: 0.2em;
+}
+#question{
+    margin-top: 7%;
+    margin-left: 8% ;
+}
+.nxt_bttn{
+    color:whitesmoke;
+    background-color: black;
+    padding: 1em 2em;
+    border-radius: 10%;
+    cursor: pointer;
+    float: right;
+    margin-right: 20%;
+    margin-top:1% ;
+    outline: none;
+}
+.nxt_bttn:hover{
+    background-color: rgb(20, 19, 19);
+    color: white;
+}
+#options{
+    margin-left: 10%;
+    line-height: 0.5em;
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+
+    
+}
+#countdown{
+    text-align: center;
+}
+#timer{
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.opt{
+    background-color: aquamarine;
+    margin-right: 60%;
+    padding: 1em 1em;
+}
+.opt:hover{
+    background-color: rgb(169, 250, 223);
+    cursor: pointer;
+}
+.opt:active{
+    background-color: white;
+
+}
+.report{
+    text-align: center;
+    margin-top: 20%;
+    color: rgb(66, 55, 41);
+}
+/* .stick{
+    font-size: larger;
+} */

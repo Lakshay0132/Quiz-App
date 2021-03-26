@@ -1,0 +1,5 @@
+{
+    "questions":["Who is the prime minister of india ?","Who is the president of india ?","Who is the Home minister of India ?","Who is First Prime Minister of India ?","When does India got freedom ?"],
+    "options":[["Nirav Modi","Narendra Modi","Rahul gandhi","Rajnath singh"],["Ram Nath Govind","Deepak kataria","Yogi adityanath","Smriti Irani"],["Sonia Gandhi","Amit shah","Chirag paswan","Abhishek banerjee"],["Indira gandhi","Mahatma gandhi","Bhagat singh","Jawahar lal nehru"],["1980","1945","1947","1950"]],
+    "answers":["2","1","2","4","3"]
+}

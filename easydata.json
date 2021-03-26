@@ -1,0 +1,5 @@
+{
+    "questions":["What is Indian National Anthem ?","What is the National Bird of India ?","what is the national Animal of India ?","Whatr is the National fruit of India ?","What is the Capital of India ?"],
+    "options":[["Jana gana mana","God save the Queen","Ave maris stella","Milli thirana"],["Parrot","Peacock","crocodile","Dinasaur"],["Cheetah","Fox","Tiger","Dog"],["Guava","Apple","Mango","Pineapple"],["Lucknow","New Delhi","Mumbai","Hyderabad"]],
+    "answers":["1","2","3","3","2"]
+}
